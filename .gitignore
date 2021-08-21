@@ -5,3 +5,4 @@ repl-temp-*
 # IDE and system files
 .idea
 .DS_Store
+*.sublime*
